@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-ejs-layouts": "^2.0.0",
+    "morgan": "^1.6.1",
+    "serve-index": "^1.7.2",
+    "serve-static": "^1.10.0"
+  }
+}
